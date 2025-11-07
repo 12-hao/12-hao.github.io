@@ -1,6 +1,6 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![XX](https://img.shields.io/badge/12hao-github-blue?logo=github)](https://github.com/12-hao)
 
-I'm currently pursuing a Bachelor's degree in Computer Science and Technology at Shenzhen Technology University.
+I am currently pursuing a Bachelor's degree in Computer Science and Technology at the School of Artificial Intelligence, Shenzhen Technology University. I am part of the Tencent Security Elite Program, and my main area of study and interest is network security.
 
 #### Email  
 <code>h565630@163.com</code>  
@@ -10,7 +10,12 @@ I'm currently pursuing a Bachelor's degree in Computer Science and Technology at
 • GPA: 3.51 / 4.5 (top 30%)  
 
 #### Research Interests  
-Cyber and Internet Security, AI Security, Database Systems and Administration, Natural Language Processing and Large Language Models, and Machine Learning.
+- Cyber and Internet Security
+- Cybersecurity Testing and Intrusion Prevention
+- Database Systems and Administration
+- AI Security
+- Natural Language Processing and Large Language Models
+- Machine Learning.
 
 
 
