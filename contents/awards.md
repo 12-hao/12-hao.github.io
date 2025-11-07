@@ -1,3 +1,3 @@
-- 校级一等奖学金, 2022.  
-
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- Merit Award, 4th National Cyberspace Forensics Competition (Online) (04/2024)
+- Second Prize, 24th University Science and Technology Festival - HUST Mathematical Modeling Competition (01/2024)
+- Third Prize of Freshman Scholarship, Shenzhen Technology University (09/2022)
