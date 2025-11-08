@@ -55,3 +55,38 @@ During my internship, I assisted in network and system security monitoring, part
 - 渗透测试中发现并复现 50+ 个中高危漏洞（包括 SQL 注入、任意用户密码修改、垂直越权等），这些漏洞未被常规自动化扫描或其他实习生先前检测到。
 - 撰写 10+ 份结构化渗透测试报告，附可复现的 PoC，提供切实可行的修复建议。
 - 参与多次复测，对已修复漏洞进行验证并检测是否存在绕过可能性。
+
+### **Additional Activities**
+
+**Red Team Member                                       07/2025**
+
+- Conducted web reconnaissance by enumerating domains, subdomains, and affiliated assets of target organizations.
+- Discovered Kingdee Cloud sites via fingerprinting and exploited RCE vulnerabilities for system compromise.
+- Penetrated mini-programs to identify horizontal privilege escalation, retrieving ID numbers and medical records of 30,000+ individuals.
+- Detected and exploited exposed storage buckets, achieving both download and overwrite capabilities.
+- Executed phishing campaigns to gain shell access to host machines and retrieve large volumes of sensitive data.
+- Identified weak credential usage to gain unauthorized access to admin portals and further infiltrated backend systems.
+- Discovered unauthenticated Druid endpoints via directory brute-forcing.
+- Accessed internal Redfan OA system through SQL injection on legacy endpoints; obtained credentials and exploited upload functionality to seize server control.
+- Retrieved extensive medical records through internal directory traversal vulnerabilities.
+
+**Confidential Municipal Bureau, Shenzhen**
+
+**| Penetration Testing Participant                                 06/2025**
+
+- Identified and exploited default credential vulnerabilities across multiple internal backend systems.
+- Uncovered unauthorized API endpoints leaking internal staff phone numbers and employee IDs.
+- Detected unprotected Swagger and Druid interfaces across several systems.
+- Exploited unauthenticated user registration and arbitrary file upload to gain shell access.
+- Discovered SQL injection vulnerabilities enabling full database extraction.
+- Exploited password reset endpoints lacking access control to modify user passwords and log in successfully.
+
+**National Blue Team Cyber Drill**
+
+**| Threat Detection & Response Analyst                             08/2024**
+
+- Coordinated directly with client-side personnel to provide tailored incident response based on their environment and risk profile.
+- Audited live traffic from on-site security appliances, including NSFOCUS WAF and ISOP platforms, to detect and escalate threats.
+- Traced WAF-recorded IPs to identify malicious activity; implemented IP bans and recorded logs accordingly.
+- Utilized EDR tools to periodically scan for malware and analyze attack traces; documented findings in daily detection reports.
+- Performed emergency analysis and security hardening on compromised hosts.
